@@ -1,3 +1,10 @@
+import Landing from "./pages/Landing";
+import Dashboard from "./pages/Dashboard";
+import Upload from "./pages/Upload";
+import MyFiles from "./pages/MyFiles";
+import Subscription from "./pages/Subscription";
+import Transactions from "./pages/Transactions";
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 const App = () => {
